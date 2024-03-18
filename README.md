@@ -1,3 +1,7 @@
+#Entrega 12-03-2024
+## Logica de Programacao
+### Reges-RP | ADS
+
 [Exercicio 01](https://github.com/montemorh/LP-Exercicios-em-C/blob/main/Exercicios%2013-03-24/mediaponderada.cpp)
 ![](/assets/img/mediaponderada.png)
 
