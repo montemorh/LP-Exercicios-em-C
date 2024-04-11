@@ -28,3 +28,22 @@
 
 [Exercicio 09](https://github.com/montemorh/LP-Exercicios-em-C/blob/main/Exercicios%2013-03-24/tinta.cpp)
 ![](/assets/img/tinta.png)
+
+
+
+# Entrega 02-04-2024
+## Logica de Programacao
+### Reges-RP | ADS
+
+
+[Exercicio 04](https://github.com/montemorh/LP-Exercicios-em-C/blob/main/Exercicios%2002-04-24/cnh.cpp)
+![](/assets/img/02-04-ex1.png)
+
+[Exercicio 06](https://github.com/montemorh/LP-Exercicios-em-C/blob/main/Exercicios%2002-04-24/menorvalor.cpp)
+![](/assets/img/02-04-ex2.png)
+
+[Exercicio 07](https://github.com/montemorh/LP-Exercicios-em-C/blob/main/Exercicios%2002-04-24/reajusteSalario.cpp)
+![](/assets/img/02-04-ex3.png)
+
+[Exercicio 08](https://github.com/montemorh/LP-Exercicios-em-C/blob/main/Exercicios%2002-04-24/OMS.cpp)
+![](/assets/img/02-04-ex4.png)
