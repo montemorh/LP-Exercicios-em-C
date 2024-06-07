@@ -4,7 +4,7 @@
 
 
 [Exercicio 01](https://github.com/montemorh/LP-Exercicios-em-C/blob/main/Exercicios%2007-06-24/EX-1.py)
-![](/assets/img/07-06-ex1.png)
+![](/assets/img/07-6-ex1.png)
 
 [Exercicio 03](https://github.com/montemorh/LP-Exercicios-em-C/blob/main/Exercicios%2007-06-24/EX-3.py)
 ![](/assets/img/07-06-ex3.png)
