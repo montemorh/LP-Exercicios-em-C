@@ -1,3 +1,20 @@
+# Entrega 07-06-2024
+## Logica de Programacao
+### Reges-RP | ADS
+
+
+[Exercicio 01](https://github.com/montemorh/LP-Exercicios-em-C/blob/main/Exercicios%2007-06-24/EX-1.py)
+![](/assets/img/07-06-ex1.png)
+
+[Exercicio 03](https://github.com/montemorh/LP-Exercicios-em-C/blob/main/Exercicios%2007-06-24/EX-3.py)
+![](/assets/img/07-06-ex3.png)
+
+[Exercicio 05](https://github.com/montemorh/LP-Exercicios-em-C/blob/main/Exercicios%2007-06-24/EX-5.py)
+![](/assets/img/07-06-ex5.png)
+
+[Exercicio 07](https://github.com/montemorh/LP-Exercicios-em-C/blob/main/Exercicios%2007-06-24/EX-7.py)
+![](/assets/img/07-06-ex7.png)
+
 # Entrega 28-05-2024
 ## Logica de Programacao
 ### Reges-RP | ADS
