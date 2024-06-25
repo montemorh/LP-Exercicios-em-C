@@ -1,3 +1,14 @@
+# Entrega 25-06-2024 | EXAME Prof. Diego
+## Logica de Programacao
+### Reges-RP | ADS
+
+[Exercicio 01 - C++](https://github.com/montemorh/LP-Exercicios-em-C/blob/main/Exame%2025-06-24/EX-1.cpp)
+![](/assets/img/exame-ex1-25-06-24.png)
+
+[Exercicio 02 - Python](https://github.com/montemorh/LP-Exercicios-em-C/blob/main/Exame%2025-06-24/EX-2.py)
+![](/assets/img/exame-ex2-25-06-24.png)
+
+
 # Entrega 07-06-2024
 ## Logica de Programacao
 ### Reges-RP | ADS
