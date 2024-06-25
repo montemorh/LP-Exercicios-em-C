@@ -1,6 +1,5 @@
-# Repositório de Henrique Montemor
-# RA 230093
-## ----------------------------------------
+### Repositório de Henrique Montemor
+### RA 230093
 
 # Entrega 25-06-2024 | EXAME Prof. Diego
 ## Logica de Programacao
